@@ -1,6 +1,6 @@
 from itertools import product
 
-#Rating of Difficulty: 2/10
+#Rating of Difficulty: 4/10 (bcuz of part c >:( )
 # Q1 Coloured Triangle
 row = input()
 temp = ""
@@ -19,7 +19,7 @@ while len(row) != 1:
   
 print(row)
 #1 (b) RRRBBGGRG, GBGGRRBBB, BGBRGBRGR 3 combos
-# 1 (c) idk ngl its too much explaining
+# 1 (c) 3^x + 1
 # 1 (d) 10 
 
 
